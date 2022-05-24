@@ -1,2 +1,2 @@
 # FlyingKiwis
-Architecture Katas 2022 Team - Team "FlyingKiwis"
+Architectural Katas Spring 2022 Team - "FlyingKiwis"
